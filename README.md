@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38081852/56460831-2d9b7e80-6372-11e9-9b6c-4b8b8e0f3c56.png" width="120" alt="TINDEV logo" />
-  
+
   # TINDEV_WEB
   
   <p>
